@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weedymuller
 - 👀 I’m interested in web development
 - 🌱 I'm a Self-Educated Web Developer...
-- 💞️ I’m currently looking to build my portfolio and interract with other web developers to help nurture my skills.
+- 💞️ I’m currently looking to interract with other web developers to help nurture and better my skills.
 - 📫 Reach me on https://twitter.com/WeedymThe
 
 <!---
