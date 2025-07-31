@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weedymuller
-- 👀 I’m interested in web development
-- 🌱 I'm a Self-Educated Web Developer...
-- 💞️ I’m currently looking to interact with other web developers to help nurture and better my skills.
+- 👀 I’m interested in everything internet
+- 🌱 I'm a Self-Educated...
+- 💞️ I’m currently looking to interact with other developers to help nurture and better my skills.
 - 📫 Reach me on https://x
 <!---
 weedymuller/weedymuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
